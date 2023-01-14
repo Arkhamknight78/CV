@@ -1,0 +1,76 @@
+.top{
+    background-color: blueviolet;
+    
+}
+.Middle{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(13, 5, 163);
+    margin: 20px;
+}
+.Bottom{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(139, 63, 5);
+    margin: 20px;
+}
+.intro{
+    font-family: 'Sacramento', sans-serif ;
+    font-weight:600 ;
+    font-size: large;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 9px;
+    border-color: darkgray;
+    width: 10%;
+}
+h1{
+    color:#38c193 ;
+    font-family: 'Sacramento', sans-serif ;
+    margin: 0px;
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0px;
+}
+table{
+    position: relative;
+    left:40%;
+}
+.Table{
+    position: relative;
+    right:10%; 
+}
+body{
+    background-color: #c1eeed;
+    text-align: center;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.BCloud{
+    position:absolute;
+    margin:auto;
+}
+.TCloud{
+    position:relative;
+    margin-left: 500px;
+}
+.Profile-pic{
+    height:25%;
+    width: 25%;;
+}
+.skill{
+    width: 25%;
+    height: 25%;
+}
+.form{
+    position: relative;
+    right: 20%;
+}
